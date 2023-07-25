@@ -1,7 +1,7 @@
 name: Running Unit Tests
 on: push
 jobs:
-  Unit Tests:
+  unit-tests:
     runs-on: ubuntu-latest
     steps:
       - name: Get Code
